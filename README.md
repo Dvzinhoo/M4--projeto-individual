@@ -16,15 +16,14 @@
        </ol>
 <h3> Há dois arquivos: </h3>
 <ol> 
-<li> Modelo de BD.png - este aqui sendo a modelagem do banco;</li>
-<li> ScriptBanco.sql - este sendo justamente todo o script que foi usado para levantar esse banco e suas tabelas.</li>
+<li> ModelodeBD-Resilia.png - este aqui sendo a modelagem do banco;</li>
+<li> Modelo de BD - Resilia.sql - este sendo justamente todo o script que foi usado para levantar esse banco e suas tabelas.</li>
 </ol>
 
 <hr>
 
 ## A modelagem 
-Texto
-<img src="/Modelo-de-BD.png" width="500px"/>
+<img src="/ModelodeBD-Resilia.png" width="700px"/>
 
 
 <hr>
