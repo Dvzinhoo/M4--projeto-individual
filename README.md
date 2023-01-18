@@ -24,7 +24,7 @@
 
 ## A modelagem 
 Texto
-<img src="/Modelo de BD.png" width="500px"/>
+<img src="/Modelo-de-BD.png" width="500px"/>
 
 
 <hr>
